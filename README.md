@@ -1,2 +1,4 @@
-# PensamentosComputacional1E
+### PensamentosComputacional 1E
 Repositorio criado para postagem de trabalhos da disciplina de pensamento computacionalnto
+#
+*Maicon N°42*
