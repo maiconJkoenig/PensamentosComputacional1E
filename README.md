@@ -33,4 +33,4 @@ Onde o presente dominará o passado
 
 E nossos corações enfim serão salvos
 
-professor@lizibugalski
+professor@LiziBugalski
