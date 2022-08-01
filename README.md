@@ -34,3 +34,5 @@ Onde o presente dominará o passado
 E nossos corações enfim serão salvos
 
 professor@LiziBugalski
+ink da imagem
+![imagem](https://i.pinimg.com/564x/98/c3/2b/98c32bdd201c23df41da4e4499eec594.jpg)
